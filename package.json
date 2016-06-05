@@ -1,0 +1,27 @@
+{
+  "name": "node-crawler-text-extrator",
+  "version": "0.0.1",
+  "main": "test.js",
+  "dependencies": {
+    "aws-sdk": "*",
+    "cheerio": "*",
+    "crawler": "*",
+    "fs-extra": "*",
+    "googleapis": "^2.1.7",
+    "hexo-deployer-s3": "*",
+    "minimist": "*",
+    "node-tokenizer": "*",
+    "pos": "*",
+    "pos-chunker": "*",
+    "process": "*",
+    "q": "*",
+    "request": "*",
+    "s3-website": "*",
+    "sanitize-filename": "*",
+    "sentence-tokenizer": "*",
+    "stats": "*",
+    "underscore": "*",
+    "xml2js": "*",
+    "youtube-dl": "*"
+  }
+}
